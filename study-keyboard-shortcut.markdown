@@ -1,5 +1,7 @@
 # keyboard shortcut
 
+remember this can just use keyboard
+
 ## pop_os
 1. command + tab, command
 
@@ -9,3 +11,5 @@ control + x, control + pageup(down)
 
 ## terminal
 control + t, control + n, 
+
+

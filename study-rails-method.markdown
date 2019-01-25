@@ -4,7 +4,7 @@
 2. read the rails guide
 
 control and routes are important
-view and model are the same with other framework
+view and model are more similar with other framework
 
 rails command
 rails console, rails server, bin/rails, rails generate, rails dbconsole, rails new app_name, 
@@ -17,5 +17,4 @@ learn how to write gem
 2. install depend software
 3. install ruby from souce code
 4. install rails
-5. use nginx puma postgreSQL passenger cap
-6. fail2ban
+5. use nginx puma postgreSQL
